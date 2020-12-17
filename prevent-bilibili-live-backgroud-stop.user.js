@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         防止B站直播在后台自动暂停
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  防止B站直播在后台自动暂停
 // @author       xfgryujk
+// @updateURL    https://github.com/Senorsen/naive-userscripts/raw/master/prevent-bilibili-live-backgroud-stop.user.js
+// @downloadURL  https://github.com/Senorsen/naive-userscripts/raw/master/prevent-bilibili-live-backgroud-stop.user.js
 // @include      /https?:\/\/live\.bilibili\.com\/?\??.*/
 // @include      /https?:\/\/live\.bilibili\.com\/\d+\??.*/
 // @include      /https?:\/\/live\.bilibili\.com\/(blanc\/)?\d+\??.*/
